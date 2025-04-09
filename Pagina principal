@@ -1,0 +1,60 @@
+<html>
+<head>
+<title> escuela secundaria tecnica 45</title>
+</head>
+<body bgcolor="fef5fa">
+
+<AUDIO src="musica_alegre.mp3" autoplay loop> </AUDIO>  
+  
+
+<center><img src="colores1.jpg" width="1350" height="1000"></center>
+<center><p style="font-size:70px;">En nuestra plataforma de tarjetas virtuales, nos esforzamos por ofrecer una experiencia unica y personalizada para que puedas expresar tus sentimientos y emociones de manera creativa y emocionante.</center></p>
+<center><img src="TARJETAS.jpg" width="750" height="680"></center>
+<center><p style="font-size:70px;">Nuestra coleccion de tarjetas virtuales es diseñada para que puedas encontar la tarjeta perfecta para cualquier ocasion, ya sea un cumpleaños, aniversario, graduacion o simplemente para decir <b>"Te Quiero de aqui a la luna a pasitos de tortuga"</b></center>
+
+
+
+
+
+
+
+
+
+
+
+
+<center><p style="font-size:70px;">Descubre nuestra coleccion de tarjetas virtuales exclusivas y personalizadas para cualquier tipo de ocasion.Explora nuestro <b>Catalogo Digital</b> y encuentra la tarjeta perfecta para ti.  </center></p>
+
+<center><table border='1'></center>
+	<body>
+		<tr>
+			<td><a href="Videos San Valentin.HTML"><b><center><font
+size="+3">Videos San Valentin o Mas Festividades</font></center></b></a></td>			<td><center><video src="svamix.mp4"width="440" height="280" controls></video></center></td>
+		</tr>
+		<tr>
+
+			<td><a href="Invitaciones.HTML"><b><center><font
+size="+3">Invitaciones para diversos eventos</font></center></b></a></td>			<td><center><IMG src="Targetagraduacion.jpg"width="440" height="580"></center></td>
+		</tr>
+		<tr>
+			<td><a href="Diseños para tasas, almohada, playeras y bolsas.HTML"><b><center><font
+size="+3">Diseños para tasas, almohada, playeras y bolsas</font></center></b></a>			<td><center><IMG src="taza para mama.jpg"width="440" height="280"></center></td></td>
+		</tr>
+		<tr>
+			<td><a href="Targetas con mensajes.HTML"><b><center><font
+size="+3">Targetas con mensajes y felicitaciones</font></center></b></a></td>			<td><center><IMG src="Targeta dia del hombre.jpg"width="440" height="280"></center></td>
+</table>
+
+
+
+<center><p style="font-size:70px;">Si no te agrada algun diseño o no te satisface, la podemos personalizar a tu gusto, necesidad o evento, y asi hacerla mucho mas especial.</p></center>
+
+
+<center><p style="font-size:70px;">    </center></p>
+<center><p style="font-size:70px;"></b>
+<center><p style="font-size:70px;"><font color="00ffff">  </center></p> 
+
+
+<center><img src="46.jpg" width="1350" height="850"></center>
+</head>
+</html>
